@@ -1,4 +1,4 @@
-# AR Marker Demo - 8th Wall
+# AR Marker Demo
 
 AR application that detects a logo marker and displays a clickable link to www.demo.unreno.rocks
 

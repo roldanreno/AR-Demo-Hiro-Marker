@@ -144,7 +144,7 @@ class SimpleARApp {
     }
 
     openDemoSite() {
-        window.open('https://fmf.mx/', '_blank');
+        window.open('https://example.com/', '_blank');
     }
 
     updateStatus(message) {
